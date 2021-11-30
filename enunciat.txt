@@ -6,10 +6,14 @@ Primera part, les preguntes valen 0,5 punts. Una resposta incorrecta resta 0,5 p
 
 1.- ¿En qué lugar se ejecuta generalmente el código JavaScript?
 
+La resposta és la B.
+
 a) Servidor
 b) Cliente (en el propio navegador de internet)
 
 2.- ¿Cuáles de estas son marcas para la inserción del código JavaScript en las páginas HTML?
+
+La resposta és la B.
 
 a) <javascript_code > y </javascript_code>
 b) <script> y </script>
@@ -17,17 +21,23 @@ c) <?script> y <script?>
 
 3.- ¿Cuál es la instrucción usada para devolver un valor en una función de JavaScript?
 
+La resposta és la B.
+
 a) Send
 b) Return
 c) Value
 
 4.- Para terminar las instrucciones en Javascript se utiliza:
 
+La resposta és la B.
+
 a) Un punto y coma
 b) Un punto y coma o un salto de línea
 c) La sentencia End.
 
 5.- ¿Cuál de estas instrucciones está correctamente escrita en Javascript?
+
+La resposta és la A.
 
 a) if (a==0) alert (a);
 b) if (a=0) print a;
@@ -36,12 +46,16 @@ d) if (a==0): print a;
 
 6.- Para concatenar cadenas de caracteres en Javascript se usa el carácter:
 
+La resposta és la B.
+
 a) & (ampersand)
 b) + (más)
 c) . (punto)
 d) * (por)
 
 7.- ¿Todo el código JavaScript debe estar por fuerza dentro del archivo .html de la página web?
+
+La resposta és la B.
 
 a) Sí, porque si no, no se podría ejecutar en el navegador
 b) No, es posible incluir código JavaScript en ficheros de extensión .js y hacer un “include” en la sección HEAD de la página HTML
